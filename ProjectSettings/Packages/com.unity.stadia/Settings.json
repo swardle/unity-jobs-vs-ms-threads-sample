@@ -1,0 +1,38 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.stadia/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "stadia.sdkpath",
+                "value": "{\"m_Value\":\"C:\\\\Program Files\\\\GGP SDK\\\\\"}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "stadia.sdkggpconfigjsonversiontype",
+                "value": "{\"m_Value\":\"Installed SDK Version\"}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "stadia.sdkggpconfigjsonversion",
+                "value": "{\"m_Value\":\"1.69\"}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "stadia.sdkheaderversion",
+                "value": "{\"m_Value\":\"ggp_latest\"}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "stadia.sdkdependencycheckenable",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "stadia.sdkapifeatures",
+                "value": "{\"m_Value\":[]}"
+            }
+        ]
+    }
+}
