@@ -5,7 +5,7 @@ This code was written in a bit of a hurry just before the talk. But it could be 
 you are trying to learn about Burst.CompileFunctionPointer or using managed code on Unity's Job threads
 to resudes contension.
 
-[presentation slides)(https://docs.google.com/presentation/d/15HF7iOfxPQzLgLoMzNQHdxUnK1lxXnkjMw7zsbVxDwc/edit#slide=id.ge09ba7ac2e_1_57)
+[presentation slides](https://github.com/swardle/unity-jobs-vs-ms-threads-sample/raw/main/%5BGGDS22_227%5D-Slides-Stadia-Adventures-in-slow-server-code-on-Unity.pdf)
 
 ## How to use this project
 
